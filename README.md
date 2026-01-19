@@ -50,7 +50,3 @@
 ### 📫 Reach Me
 - 💼 **LinkedIn:** [www.linkedin.com/in/manish-tigaya-a678992a7]
 - 📍 **Location:** India 🇮🇳
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ManishT-coder&label=PROFILE%20VIEWS&color=2196F3&style=flat-square" />
-</p>
