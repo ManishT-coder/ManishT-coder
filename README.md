@@ -1,27 +1,28 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=2196F3&center=true&vCenter=true&width=700&lines=Hi+I'm+Manish+Tigaya;Mobile+Engineer;Web+Developer;Backend+Enthusiast;Building+Scalable+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=2196F3&center=true&vCenter=true&width=750&lines=Hi!+I'm+Manish+Tigaya;BSc+IT+Student;Android+%7C+Web+%7C+Backend+Learner;Currently+Doing+an+Internship" />
 </p>
-# 👋 I'm Manish Tigaya
-### 📱 Mobile Engineer | 🌐 Web Developer | ⚙️ Backend Enthusiast
-
-> **Passionate about building scalable mobile applications and modern web solutions with a focus on clean architecture and high-quality UI.**
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ManishT-coder&label=Profile%20Views&color=2196F3&style=flat" />
 </p>
 
+# 👋 I'm Manish Tigaya
+### 🎓 BSc IT Student | 📱 Android Learner | 🌐 Web Developer | ⚙️ Backend Learner
+
+> I’m learning and building projects in Android and Web Development.  
+> Currently doing an internship and improving my skills step by step.
+
 ---
 
-### 💻 Core Tech Stack
+## 💻 Tech Stack
 
-**Mobile Development**
+### 📱 Mobile Development
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Room DB](https://img.shields.io/badge/Room%20DB-F80000?style=flat-square&logo=sqlite&logoColor=white)
 
-**Web & Software Engineering**
+### 🌐 Web & Programming
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -30,16 +31,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManishT-coder&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-
-### 📚 Learning & Exploring
-*Currently expanding my knowledge in these backend and scripting technologies:*
-
+## 📚 Currently Learning
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -47,45 +39,41 @@
 
 ---
 
-## 📈 GitHub Ecosystem Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ManishT-coder&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManishT-coder&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishT-coder&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishT-coder&theme=tokyo-night&hide_border=true" />
-</p>
-
-
-## 📌 Featured Projects
-
-### 📱 MiniTom – Smart Android App
-- Built with Jetpack Compose
-- Clean MVVM Architecture
-- Local Database using Room
-
-### 🎓 Student–Teacher Management System
-- CLI Based System
-- Built using Shell Scripting
-- Leave + Result Management
-
-### 🌐 Dynamic Bike Website
-- Built using HTML, CSS & PHP
-- Contact Form + Backend Integration
 
 ---
 
-### 🎯 Professional Goals
-- 🏗️ **Mastering Spring Boot:** Transitioning from "knowing a little" to building enterprise backends.
-- 🎨 **Modern Compose:** Implementing advanced UI/UX patterns in Android apps.
-- ⚡ **Algorithm Design:** Strengthening logic skills through C++ and Python.
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ManishT-coder&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishT-coder&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=100&section=footer"/>
+## 📌 Projects (Simple)
+- 📱 Android Apps using Jetpack Compose (Learning + Practice)
+- 🎓 Student–Teacher Management System (CLI)
+- 🌐 Simple Website Projects using HTML/CSS/JS + PHP
 
+---
 
-### 📫 Reach Me
-- 💼 **LinkedIn:** [www.linkedin.com/in/manish-tigaya-a678992a7]
-- 📍 **Location:** India 🇮🇳
+## 🎯 My Goals
+- Improve Android development step by step
+- Learn Spring Boot backend properly
+- Practice DSA / logic with C++ and Python
+
+---
+
+## 📫 Contact
+- 💼 LinkedIn: [Manish Tigaya](https://www.linkedin.com/in/manish-tigaya-a678992a7)
+- 📍 India 🇮🇳
