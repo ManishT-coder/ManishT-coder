@@ -1,7 +1,17 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=2196F3&center=true&vCenter=true&width=700&lines=Hi+I'm+Manish+Tigaya;Mobile+Engineer;Web+Developer;Backend+Enthusiast;Building+Scalable+Apps" />
+</p>
+
+
 # 👋 I'm Manish Tigaya
 ### 📱 Mobile Engineer | 🌐 Web Developer | ⚙️ Backend Enthusiast
 
 > **Passionate about building scalable mobile applications and modern web solutions with a focus on clean architecture and high-quality UI.**
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ManishT-coder&label=Profile%20Views&color=2196F3&style=flat" />
+</p>
 
 ---
 
@@ -21,6 +31,13 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ManishT-coder&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
 
 ### 📚 Learning & Exploring
 *Currently expanding my knowledge in these backend and scripting technologies:*
@@ -43,6 +60,22 @@
 </p>
 
 
+## 📌 Featured Projects
+
+### 📱 MiniTom – Smart Android App
+- Built with Jetpack Compose
+- Clean MVVM Architecture
+- Local Database using Room
+
+### 🎓 Student–Teacher Management System
+- CLI Based System
+- Built using Shell Scripting
+- Leave + Result Management
+
+### 🌐 Dynamic Bike Website
+- Built using HTML, CSS & PHP
+- Contact Form + Backend Integration
+
 ---
 
 ### 🎯 Professional Goals
@@ -51,6 +84,9 @@
 - ⚡ **Algorithm Design:** Strengthening logic skills through C++ and Python.
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=100&section=footer"/>
+
 
 ### 📫 Reach Me
 - 💼 **LinkedIn:** [www.linkedin.com/in/manish-tigaya-a678992a7]
