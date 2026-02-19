@@ -38,13 +38,12 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ManishT-coder&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>](https://github-readme-stats-5yqiwz58g.vercel.app)
-  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ManishT-coder&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-5yqiwz58g.vercel.app/api?username=ManishT-coder&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+  <img src="https://github-readme-stats-5yqiwz58g.vercel.app/api/top-langs/?username=ManishT-coder&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 
