@@ -33,10 +33,12 @@
 ---
 
 ### 📈 GitHub Ecosystem Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManishT-coder&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=777" alt="Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishT-coder&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=777" alt="Languages" height="165" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManishT-coder&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=777" height="165" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishT-coder&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=777" height="165" />
 </p>
+
 
 ---
 
