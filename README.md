@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=2196F3&center=true&vCenter=true&width=750&lines=Hi!+I'm+Manish+Tigaya;BSc+IT+Student;Android+%7C+Web+%7C+Backend+Learner;Currently+Doing+an+Internship" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=2196F3&center=true&vCenter=true&width=750&lines=Hi!+I'm+Manish+Tigaya;IT+Student;Android+%7C+Web+%7C+Backend+Learner;Currently+Doing+an+Internship" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 # 👋 I'm Manish Tigaya
-### 🎓 BSc IT Student | 📱 Android Learner | 🌐 Web Developer | ⚙️ Backend Learner
+### 🎓IT Student | 📱 Android Learner | 🌐 Web Developer | ⚙️ Backend Learner
 
 > I’m learning and building projects in Android and Web Development.  
 > Currently doing an internship and improving my skills step by step.
