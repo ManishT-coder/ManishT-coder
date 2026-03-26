@@ -7,7 +7,7 @@
 </p>
 
 # 👋 I'm Manish Tigaya
-### 🎓IT Student | 📱 Android Learner | 🌐 Web Developer | ⚙️ Backend Learner
+### 🎓IT Student | 🌐 Web Developer |
 
 > I’m learning and building projects in Android and Web Development.  
 > Currently doing an internship and improving my skills step by step.
